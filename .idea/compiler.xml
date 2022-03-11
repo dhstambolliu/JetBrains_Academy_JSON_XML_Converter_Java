@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-classes-java.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-reports-tests.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-test-results.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task-build-tmp.main" target="11" />
+      <module name="JSON_-_XML_converter.JSON_-_XML_converter-task.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Determine_the_order.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Existing_iterators.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Finding_the_max_number.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Hip-Hop.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Interfaces_with_iterator.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Iterators_and_for-each.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-No__J.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Remove_elements_of_a_collection.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Reversed_list.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-Theory.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-What_is_an_Iterable.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Iterator_and_Iterable-What_is_an_Iterator.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-An_uncompiled_statement.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Frequency_of_characters.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Multiple_swaps.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-No_exceptions.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Non-existing_methods.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Rotating_table.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Sorting_sequences.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-The_utility_class_Collections-Theory.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Type_Erasure-Theory.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Type_Erasure-Universal_Integer.main" target="11" />
+      <module name="JSON_-_XML_converter.Topics-Type_Erasure-Violator.main" target="11" />
+      <module name="JSON_-_XML_converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
